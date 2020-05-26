@@ -2,3 +2,4 @@ data science
 artificial intelligence
 advance programming
 basics of python
+python can be easy and simple to learn
